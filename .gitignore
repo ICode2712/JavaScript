@@ -1,5 +1,5 @@
-node_modules
-package-lok.json
-package.jason
+node_modules/
+package-lock.json
+package.json
 eslint.config.mjs
 .DS_Store
