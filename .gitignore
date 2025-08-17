@@ -1,4 +1,5 @@
-./node_modules
-./package-lok.json
-./package.jason
-.eslint.config.mjs
+node_modules
+package-lok.json
+package.jason
+eslint.config.mjs
+.DS_Store
